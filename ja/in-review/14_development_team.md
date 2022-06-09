@@ -29,7 +29,7 @@ Conversion notes:
 
 
 ## ¶14 Development Team
-¶14 開発チーム
+14.開発チーム
 
 Alias: Development/Delivery Team \
 別名：開発/デリバリーチーム
@@ -37,22 +37,21 @@ Alias: Development/Delivery Team \
 Confidence stars: ** \
 信頼度：**
 
-![alt_text](images/image1.jpg "image_tooltip")
-
+![alt_text](images/14_image1.jpg "image_tooltip")
 
 <!-- ...coming out of [​¶2 The Mist​](https://learning.oreilly.com/library/view/a-scrum-book/9781680507577/f_0033.xhtml#sec.The.Mist), the [​¶11 Product Owner​](https://learning.oreilly.com/library/view/a-scrum-book/9781680507577/f_0042.xhtml#sec.Product.Owner) has a product [​¶39 Vision​](https://learning.oreilly.com/library/view/a-scrum-book/9781680507577/f_0074.xhtml#sec.Vision) whose realization is beyond the reach of any individual. The **_Product Owner_** is either working alone at the forefront of a new venture or working in the company of people who share passion for the same **_Vision_**. The fledgling effort might have formed in **_The Mist_** and needs to come together. The effort is at a point of taking steps to turn the **_Vision_** into a reality, both by coordinating the work of the longstanding members of the group and by potentially involving new people. Together, they seek a way to balance their collective identity with individual development responsibilities: to connect to each other under a framework that manages time and talent to support the business and create a rewarding workplace. \ -->
-..._[¶2 The Mist​](https://learning.oreilly.com/library/view/a-scrum-book/9781680507577/f_0033.xhtml#sec.The.Mist)_より出て、[​¶11 Product Owner​](https://learning.oreilly.com/library/view/a-scrum-book/9781680507577/f_0042.xhtml#sec.Product.Owner)は、プロダクト¶39ビジョンを持っている。その実現が個人の手には余るようなものだ。**_プロダクトオーナー_**は、新しいベンチャー企業の最前線で一人で働いているか、企業の中で同じ**_ビジョン_**への情熱を共有する人々と一緒に働いている。走り始めるための活動は**_The Mist_**の中で形成されているかもしれず、一つにまとまる必要がある。その活動は、ビジョンを現実のものにするためのステップを踏む段階にある。長くいるメンバーの仕事を調整したり、新しい人々を巻き込むんこともあり、両方を行う。彼らはともに、集団としてのアイデンティティと個人の開発責任を両立させる方法を模索している。つまり、ビジネスを支えるために時間と能力を管理する枠組みのもとで互いに繋がり、働きがいのある職場を作ろうとしている。
+..._[2.The Mist​](2_the_mist.md)_より出て、[​11.Product Owner​](11_product_owner.md)は、プロダクト[39.Vision](39_vision.md)を持っている。その実現が個人の手には余るようなものだ。**_プロダクトオーナー_**は、新しいベンチャー企業の最前線で一人で働いているか、企業の中で同じ**_ビジョン_**への情熱を共有する人々と一緒に働いている。走り始めるための活動は**_The Mist_**の中で形成されているかもしれず、一つにまとまる必要がある。その活動は、ビジョンを現実のものにするためのステップを踏む段階にある。長くいるメンバーの仕事を調整したり、新しい人々を巻き込むんこともあり、両方を行う。彼らはともに、集団としてのアイデンティティと個人の開発責任を両立させる方法を模索している。つまり、ビジネスを支えるために時間と能力を管理する枠組みのもとで互いに繋がり、働きがいのある職場を作ろうとしている。
 
 
-![alt_text](images/image2.png "image_tooltip")
+![alt_text](images/14_image2.png "image_tooltip")
 
 
 <!-- **Many great endeavors cannot achieve excellence through individual effort alone; the greatest power in production comes from teamwork.** Great individuals can produce great products, but starting with a single individual makes it difficult to scale later. Each new person detracts from the effectiveness of everyone else on the team by about 25 percent for about 6 months (rule of thumb from James Coplien). Some products simply cannot realize greatness at the hands of a single individual, and without good feedback it is easy to get blindsided. Experience shows that person for person, teams outperform individuals: many hands make light work. While industry data show a range of 10 to 1 in _individual_ programmer to _teams_ output (_[Making Software [OW10]](https://learning.oreilly.com/library/view/a-scrum-book/9781680507577/f_0144.xhtml#d5924e5164)_, pp. 567--574), other data show that some teams outperformed others by a factor of 2000 to 1 (_[Scrum: The Art of Doing Twice the Work in Half the Time [SS14]](https://learning.oreilly.com/library/view/a-scrum-book/9781680507577/f_0144.xhtml#d5924e6627)_, p. 42). \ -->
-**偉大な試みの多くは、個人の努力だけでは優れた業績に至ることができない。生産における最高の力は、チームワークから生まれる。**優れた個人は優れたプロダクトを生み出すことができるが、一人で始めた場合、後からスケールすることは難しくなる。一人増えるごとに、チームの他のメンバーの有効性が約25％、約6ヶ月の間損なわれる（James Coplienの経験則）。プロダクトの中には、個人一人で大きな成果を実現するには単純に手に余るようなものもある。適切なフィードバックがなければ、思ってもいなかったようなことになってしまう。経験上、人と人、チームは個人を上回る。人手が多ければ仕事は楽になる。業界のデータでは、プログラマー_個人_とチームのアウトプットは10対1の範囲にあることが示されていますが（Making Software [OW10]、567～574ページ）、他のデータでは、2000対1の割合で他を上回るチームもある（Scrum: The Art of Doing Twice the Work in Half the Time [SS14]、42ページ）。 \
+**偉大な試みの多くは、個人の努力だけでは優れた業績に至ることができない。生産における最高の力は、チームワークから生まれる。**優れた個人は優れたプロダクトを生み出すことができるが、一人で始めた場合、後からスケールすることは難しくなる。一人増えるごとに、チームの他のメンバーの有効性が約25％、約6ヶ月の間損なわれる（James Coplienの経験則）。プロダクトの中には、個人一人で大きな成果を実現するには単純に手に余るようなものもある。適切なフィードバックがなければ、思ってもいなかったようなことになってしまう。経験上、人と人、チームは個人を上回る。人手が多ければ仕事は楽になる。業界のデータでは、プログラマー_個人_とチームのアウトプットは10対1の範囲にあることが示されていますが（Making Software [OW10]、567～574ページ）、他のデータでは、2000対1の割合で他を上回るチームもある（Scrum: The Art of Doing Twice the Work in Half the Time [SS14]、42ページ）。 
 
 
 
-![alt_text](images/image3.png "image_tooltip")
+![alt_text](images/14_image3.png "image_tooltip")
 
 
 <!-- On the other hand, it’s difficult to form a consensus direction across an overly large group—too many cooks spoil the broth. A development department composed of handfuls of people _can_ eventually achieve consensus, but usually can do so only with long mutual deliberation and socialization. Such delay is intolerable in a responsive business. \ -->
@@ -64,14 +63,14 @@ Confidence stars: ** \
 <!-- Organizations need to run on multiple cadences. One cadence may be the day-to-day work of creating a product; another may be the longer cycles of working with the market. Role differentiation should primarily follow from variations in these cadences, according to the “Role Theory’’ chapter in _[The Handbook of Social Psychology [LA68]](https://learning.oreilly.com/library/view/a-scrum-book/9781680507577/f_0144.xhtml#d5924e3991)_ (pp. 488--567). History, experience, and inclination draws individuals to particular roles, which may lead to problems for organizations because roles may not work to the needed cadences. The organization needs to work coherently. \ -->
 組織は複数のリズムで動く必要がある。リズムの1つは、プロダクトを作る日々の作業であり、もう1つは、市場と向き合う長いサイクルかもしれない。『_[The Handbook of Social Psychology](https://learning.oreilly.com/library/view/a-scrum-book/9781680507577/f_0144.xhtml#d5924e3991)_』[LA68]の「役割理論」の章（488～567ページ）によれば、役割の差異化は、これらのリズムの違いに主に従うべきだ。歴史、経験、傾向は個人を特定の役割に引き寄せるが、役割は必要なリズムで機能しないかもしれず、組織の問題につながる可能性がある。組織は整然と動く必要がある。
 
-Therefore: \
+Therefore: 
 そのため：
 
 <!-- **Building on [​¶15 Stable Teams​](https://learning.oreilly.com/library/view/a-scrum-book/9781680507577/f_0046.xhtml#sec.Stable.Teams), create a _Development Team_ that rallies around a product inspired by the _Product Owner_’s _Vision_, to deliver successive increments of that product through the [​¶41 Value Stream​](https://learning.oreilly.com/library/view/a-scrum-book/9781680507577/f_0076.xhtml#sec.Value.Stream) to its end users.** The team is a bonding of approximately five collocated individuals (see[​¶8 Collocated Team​](https://learning.oreilly.com/library/view/a-scrum-book/9781680507577/f_0039.xhtml#sec.Collocated.Team) and [​¶9 Small Teams​](https://learning.oreilly.com/library/view/a-scrum-book/9781680507577/f_0040.xhtml#sec.Small.Teams)) committed to working with each other towards a common goal. \ -->
 ** [​¶15 Stable Teams​](https://learning.oreilly.com/library/view/a-scrum-book/9781680507577/f_0046.xhtml#sec.Stable.Teams)に基づき、プロダクトオーナーのビジョンに端を発したプロダクトに集う開発チームを作り、[​¶41 Value Stream](https://learning.oreilly.com/library/view/a-scrum-book/9781680507577/f_0076.xhtml#sec.Value.Stream)を通じてエンドユーザーにそのプロダクトのインクリメントを連続して提供する。**チームは、およそ５人の個人が隣り合わせに配置され団結しており（[​¶8 Collocated Team​](https://learning.oreilly.com/library/view/a-scrum-book/9781680507577/f_0039.xhtml#sec.Collocated.Team)と[​¶9 Small Teams​](https://learning.oreilly.com/library/view/a-scrum-book/9781680507577/f_0040.xhtml#sec.Small.Teams)を参照）、共通の目標に対しお互いに協力することにコミットしている。
 
 
-![alt_text](images/image4.png "image_tooltip")
+![alt_text](images/14_image4.png "image_tooltip")
 
 
 <!-- The team is autonomous: self-selected, self-organizing, and self-managing. Give the individuals a collective identity to realize the **_Product Owner_**’s **_Vision_. **The **_Product Owner_** can tell them: “This is your product—do it.” \ -->
